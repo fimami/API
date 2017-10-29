@@ -10,8 +10,6 @@ deferred class
 inherit
 	SUPPORT
 
-create
-	make
 
 feature
 
